@@ -1,4 +1,4 @@
-*500 Lines or Less*
+*500 Lines or Less* 
 ===================
 
 This is the source for the book *500 Lines or Less*, the fourth in the
